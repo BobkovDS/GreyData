@@ -2,3 +2,5 @@ How did viewing a diff between two versions of a file help you see the bug that 
 
 Looking at a diff between two versions of a file, we find places where modifications were made.
 So, when we find the bug, we can check only those places to find the bug.
+
+And then i modified first file... 
